@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Boomerang HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE1OjA5IFBNJmhhc2hfdmFsdWU9NTdsVStQMUQ5czlneDVlT09HRTBudz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Band Sports HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDU6MTA6MDMgQU0maGFzaF92YWx1ZT1lUGxDU0pwTE0rR0k4SWxINnNSS05nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Fox Sports 2 HD
