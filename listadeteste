@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,A&E HD
+https://live.multicanais.com/live/aehd/video.m3u8?md5=gASTSiC49Vy2j5wnYpj3dg&expires=1564295108
+#EXTINF:-1,Canal Sony HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTE6MDcgQU0maGFzaF92YWx1ZT1KTHRicjFXNjVSTWUxNml2d0VxZGZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Cinemax HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDk6MjMgQU0maGFzaF92YWx1ZT1xRGw3eldKdkczMVZidVhQKzV3TFNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Disney Channel HD
