@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Max UP HD
+https://live.multicanais.com/live/maxuphd/video.m3u8?md5=XIMaUJfKYH8QSYWvw8iwlA&expires=1564363282
 #EXTINF:-1,HBO Family HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjM4OjUxIFBNJmhhc2hfdmFsdWU9OVgvQVpYandiSFpGZFJqY0lHcXFjdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,HBO Signature HD
