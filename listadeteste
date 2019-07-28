@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Comedy Central HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDU6MDYgQU0maGFzaF92YWx1ZT1KdWE5THU0R25hZXFRZ1E2SFVkSVFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Nat Geo Wild HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDI6MDIgQU0maGFzaF92YWx1ZT1aeGc4ZVdubzBOTE5mMUpiWGFNTHRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,History HD
@@ -47,8 +49,6 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3
 https://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MjE6MjAgQU0maGFzaF92YWx1ZT1RbWxOazdrMy9mOTF0SFArenpGSFh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Fish TV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTE6NTYgQU0maGFzaF92YWx1ZT1XS2pIY3lFUVJsVnU0akpmanZiRUtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Fox Sports HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDU6MjQgQU0maGFzaF92YWx1ZT1RbW9yOVBNOXB4Z1RZYmZmK2l0aG1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,FX HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6MzEgQU0maGFzaF92YWx1ZT12NXlFbVBXbnRPVDRvUS9TRUlYVFhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,HBO Plus HD
