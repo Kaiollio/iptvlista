@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,NickJr HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE4OjU4IFBNJmhhc2hfdmFsdWU9d1lqV1JsU2xqeTgvaFVMcFZ2RTFBZz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,Gloob HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE4OjI4IFBNJmhhc2hfdmFsdWU9RGpFa1FDc2xJYmNmOC9hZUlPMDRDQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,Nat Geo Wild HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE3OjM2IFBNJmhhc2hfdmFsdWU9c2ZBVWw3cDZqV0xFWFVwcitNczA0Zz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Boomerang HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE1OjA5IFBNJmhhc2hfdmFsdWU9NTdsVStQMUQ5czlneDVlT09HRTBudz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Band Sports HD
