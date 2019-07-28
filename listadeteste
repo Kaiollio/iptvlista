@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-https://live.multicanais.com/live/aehd/video.m3u8?md5=gASTSiC49Vy2j5wnYpj3dg&expires=1564295108
+#EXTINF:-1,Discovery Science HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTk6MDggQU0maGFzaF92YWx1ZT02Rk9oZElBMkM0QU9rNS9OZ0FNM3N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Canal Sony HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTE6MDcgQU0maGFzaF92YWx1ZT1KTHRicjFXNjVSTWUxNml2d0VxZGZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Cinemax HD
@@ -9,8 +9,6 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d10uk7xyz104pv.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDc6MjMgQU0maGFzaF92YWx1ZT1LUE9LUTdYRGFoR1RiRzloVnpJMDVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Comedy Central HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDU6MDYgQU0maGFzaF92YWx1ZT1KdWE5THU0R25hZXFRZ1E2SFVkSVFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Nat Geo Wild HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDI6MDIgQU0maGFzaF92YWx1ZT1aeGc4ZVdubzBOTE5mMUpiWGFNTHRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,History HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDE6NTYgQU0maGFzaF92YWx1ZT1sMEU1azIvQ3pwME5aYlkxSldVOU1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,History 2 HD
