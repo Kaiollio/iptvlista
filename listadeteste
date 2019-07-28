@@ -76,7 +76,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:-1,Telecine Touch HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTY6MTcgQU0maGFzaF92YWx1ZT0ycTVKRWRZdWtmRS85eG5TS3ExeldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Max HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTU6MjMgQU0maGFzaF92YWx1ZT1KdlE2OHZvQTk3anZ5eFhMT3Z5K01RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://live.multicanais.com/live/maxhd/video.m3u8?md5=VryKbN49nHkq4_ALheIlkw&expires=1564357955
 #EXTINF:-1,Telecine Cult HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Action HD
