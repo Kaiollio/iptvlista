@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Nat Geo Wild HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDI6MDIgQU0maGFzaF92YWx1ZT1aeGc4ZVdubzBOTE5mMUpiWGFNTHRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,History HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDE6NTYgQU0maGFzaF92YWx1ZT1sMEU1azIvQ3pwME5aYlkxSldVOU1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,History 2 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDE6MTcgQU0maGFzaF92YWx1ZT1uRHJDdTZHNFJwUVZKdGt4Q0xXQy9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Food Network HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/foodnetwork.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDA6MjYgQU0maGFzaF92YWx1ZT15Z3VScThVdFFvS3VxaW4vdHUyRytRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TLC HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mzk6NTIgQU0maGFzaF92YWx1ZT00a2tWNDE4VVFtTmZPYXlHV0tpNGdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Premiere Clubes HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mzg6MTYgQU0maGFzaF92YWx1ZT1LR2xFL3MwdlBpdks2cDMzT25meS9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Premiere 2 HD
@@ -13,8 +23,6 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3
 https://d10uk7xyz104pv.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzU6MTYgQU0maGFzaF92YWx1ZT1TREZyUkwwQ2pBZE1wUThoQUpXWmlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Premiere 7 HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzQ6MDYgQU0maGFzaF92YWx1ZT1DeVlVQ1BpV05IY045RWl4ajVuVllnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Paramount Channel HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzI6MjcgQU0maGFzaF92YWx1ZT1JSjVBUUQzSDZLTHcrVHlNMU0ydEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Studio Universal HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzE6NTYgQU0maGFzaF92YWx1ZT1vTk1yUWQ0V1hYbnlURi81b2lHb3lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Syfy HD
