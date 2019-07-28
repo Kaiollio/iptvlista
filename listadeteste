@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,Paramount Channel HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzI6MjcgQU0maGFzaF92YWx1ZT1JSjVBUUQzSDZLTHcrVHlNMU0ydEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Studio Universal HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzE6NTYgQU0maGFzaF92YWx1ZT1vTk1yUWQ0V1hYbnlURi81b2lHb3lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Syfy HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzE6MzEgQU0maGFzaF92YWx1ZT1SMEI5dWdPZjQyZmZoSkhmaVYvdS9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Warner TV HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzA6NTUgQU0maGFzaF92YWx1ZT1QdHpBZnJvbnEvWG9xUzJxRjhGRTh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Nickelodeon HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mjk6NTEgQU0maGFzaF92YWx1ZT1ycGE2REgrekswTVhjLzBadnhyOWt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TNT Series HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mjg6MzcgQU0maGFzaF92YWx1ZT1ETTNlalNUR0J1dFNQVmQ3WW14OFNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Animal Planet HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDU6MDYgQU0maGFzaF92YWx1ZT00emI5WGdTd0JoSHc4dmgrTUFpVWhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Cartoon Network HD
