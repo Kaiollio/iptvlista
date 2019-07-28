@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Curta! HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI3OjQ3IFBNJmhhc2hfdmFsdWU9Z05DdVNIUllhMmdBMkV6WmlDcGpxQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,GNT HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI3OjAzIFBNJmhhc2hfdmFsdWU9MEpZSllORHUyVHJYckhEeVFuWk1uZz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TCM HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI1OjE4IFBNJmhhc2hfdmFsdWU9enlvcGVjRDZGVzlaRUI3ZTBIaTFuUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,NickJr HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjE4OjU4IFBNJmhhc2hfdmFsdWU9d1lqV1JsU2xqeTgvaFVMcFZ2RTFBZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Gloob HD
@@ -36,7 +42,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:-1,Discovery Science HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTk6MDggQU0maGFzaF92YWx1ZT02Rk9oZElBMkM0QU9rNS9OZ0FNM3N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Canal Sony HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTE6MDcgQU0maGFzaF92YWx1ZT1KTHRicjFXNjVSTWUxNml2d0VxZGZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjIyOjE4IFBNJmhhc2hfdmFsdWU9V3poR1ViMCt6cTBIMVBZV1J4TUV3QT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Cinemax HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDk6MjMgQU0maGFzaF92YWx1ZT1xRGw3eldKdkczMVZidVhQKzV3TFNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Disney Channel HD
@@ -106,7 +112,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:-1,Telecine Cult HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Action HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6MTAgQU0maGFzaF92YWx1ZT1PTGJyUjdVODFGVS9tOGsxL2s0YnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI1OjQ4IFBNJmhhc2hfdmFsdWU9TUxmOEFGUmxsSFFtME9JMDNnMy9LZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,MTV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDM6NTUgQU0maGFzaF92YWx1ZT1JUGtIc011aHBTQzhsN253ZmFCRUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Multishow HD
