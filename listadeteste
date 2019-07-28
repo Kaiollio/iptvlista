@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,HBO HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjM1OjQ4IFBNJmhhc2hfdmFsdWU9TE5HU2VtMUZSK1dURmE0MFdpakEwUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Curta! HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI3OjQ3IFBNJmhhc2hfdmFsdWU9Z05DdVNIUllhMmdBMkV6WmlDcGpxQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,GNT HD
