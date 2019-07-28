@@ -7,8 +7,16 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d10uk7xyz104pv.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDA6MDggQU0maGFzaF92YWx1ZT1oYXRNSVBHanBaWE9weEg3cjUrZGZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Discovery Kids HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MjQ6MTQgQU0maGFzaF92YWx1ZT1uZzFCN1NYZk50dUwwbEtpWVRIWGNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Discovery Channel HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTA6MzMgQU0maGFzaF92YWx1ZT1GTzBIOFYwQjVFOXdFWnJubWM1ZVJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,ESPN Brasil HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MjE6MjAgQU0maGFzaF92YWx1ZT1RbWxOazdrMy9mOTF0SFArenpGSFh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Fish TV HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTE6NTYgQU0maGFzaF92YWx1ZT1XS2pIY3lFUVJsVnU0akpmanZiRUtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Fox Sports HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDU6MjQgQU0maGFzaF92YWx1ZT1RbW9yOVBNOXB4Z1RZYmZmK2l0aG1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FX HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6MzEgQU0maGFzaF92YWx1ZT12NXlFbVBXbnRPVDRvUS9TRUlYVFhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,HBO Plus HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTk6NTkgQU0maGFzaF92YWx1ZT1nVFd4ZmN4MzQ5NVJ0WTlrTzFZcGF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Premium HD
@@ -25,22 +33,14 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Action HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6MTAgQU0maGFzaF92YWx1ZT1PTGJyUjdVODFGVS9tOGsxL2s0YnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Fish TV HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTE6NTYgQU0maGFzaF92YWx1ZT1XS2pIY3lFUVJsVnU0akpmanZiRUtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Fox Sports HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDU6MjQgQU0maGFzaF92YWx1ZT1RbW9yOVBNOXB4Z1RZYmZmK2l0aG1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,MTV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDM6NTUgQU0maGFzaF92YWx1ZT1JUGtIc011aHBTQzhsN253ZmFCRUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Multishow HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDI6MDEgQU0maGFzaF92YWx1ZT1PeFhkVkovdmJzMlNJNnZ0VTZqNVJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,Discovery Channel HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTA6MzMgQU0maGFzaF92YWx1ZT1GTzBIOFYwQjVFOXdFWnJubWM1ZVJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,National Geographic HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDk6MjcgQU0maGFzaF92YWx1ZT1sbmhsQm9BaTB2RWlzd2h6aEJRU3FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Space HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/space.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDY6MjUgQU0maGFzaF92YWx1ZT00V1BSNmlTcG5ya3V4NENmVTV3WGNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,FX HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6MzEgQU0maGFzaF92YWx1ZT12NXlFbVBXbnRPVDRvUS9TRUlYVFhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Megapix HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MjU6NDggQU0maGFzaF92YWx1ZT1MTXRybTlMK085R0VJMXFsbXFYNmxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Pipoca HD
