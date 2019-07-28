@@ -15,3 +15,5 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MjM6MTEgQU0maGFzaF92YWx1ZT1aSXpKcFlBUlFGOEZLc1FxNVZqaHpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,TNT HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MzM6MDkgQU0maGFzaF92YWx1ZT0zcGFkRDRDemplYkltVysyQzdPY2d3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SportTV 1 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTI6MzggQU0maGFzaF92YWx1ZT00NERFYUJMVUl3cUEralJSa0JDN0FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
