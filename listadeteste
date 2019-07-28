@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1,A| Aproveite! |A
-https://chrome/dino
+#EXTINF:-1,Fox Premium 1 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDE6NDAgUE0maGFzaF92YWx1ZT1VOFZmdGw5YjlPNDlDNzdsQTB6eXVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Fox Premium 2 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDE6MzggUE0maGFzaF92YWx1ZT1FZDlsYlNvYWNhNEl2L3Y3UjFMcjdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Fox HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDA6MjAgUE0maGFzaF92YWx1ZT15ejMvL1RGczVzY2w2UjhsUjRZOW5BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Discovery Science HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NTk6MDggQU0maGFzaF92YWx1ZT02Rk9oZElBMkM0QU9rNS9OZ0FNM3N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Canal Sony HD
