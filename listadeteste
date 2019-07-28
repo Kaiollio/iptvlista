@@ -21,3 +21,5 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d10uk7xyz104pv.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTc6MTUgQU0maGFzaF92YWx1ZT1xVFNGK0xGY3kwNEJaNTBnd3pRdWhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,SportTV 3 HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTY6MDYgQU0maGFzaF92YWx1ZT0rUmY5M3FOYVdMS25HelZwVTd2Y1RRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Combate HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDA6MDggQU0maGFzaF92YWx1ZT1oYXRNSVBHanBaWE9weEg3cjUrZGZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
