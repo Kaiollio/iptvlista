@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Music Box Brazil SD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w327674423_b2028000_sleng.m3u8
+#EXTINF:-1,AXN HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDEwOjMzOjU3IFBNJmhhc2hfdmFsdWU9TWZVanJ4RU5teFIyU0ZETmlSRTVzQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,A&E HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDEwOjMyOjQyIFBNJmhhc2hfdmFsdWU9MTlrQUNwcnh1MU03MktnQ2RPR3BjZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Fox Sports 2 HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDc6NTY6NDAgUE0maGFzaF92YWx1ZT1KQXZJay9hc29CaTlLd0h4ZUYzVDJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Fox Premium 1 HD
