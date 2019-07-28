@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,National Geographic HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDk6MjcgQU0maGFzaF92YWx1ZT1sbmhsQm9BaTB2RWlzd2h6aEJRU3FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Space HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/space.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDY6MjUgQU0maGFzaF92YWx1ZT00V1BSNmlTcG5ya3V4NENmVTV3WGNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,FX HD
