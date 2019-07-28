@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Premiere Clubes HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mzg6MTYgQU0maGFzaF92YWx1ZT1LR2xFL3MwdlBpdks2cDMzT25meS9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 2 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6Mzc6NDAgQU0maGFzaF92YWx1ZT1MM2FzS29JVDlhR0xxVVBBWTlPNkV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 5 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzY6NDQgQU0maGFzaF92YWx1ZT1CWTVhUEsvZ2M2SVd5Z0dkczdCYW9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 3 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzY6MDcgQU0maGFzaF92YWx1ZT1Kcm1SNWxXdldtYnB0dmEvNi8rb1NBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 4 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzU6NDEgQU0maGFzaF92YWx1ZT1TM0t3eHdWUXhLK1cySkRGL2RIa0x3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 6 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzU6MTYgQU0maGFzaF92YWx1ZT1TREZyUkwwQ2pBZE1wUThoQUpXWmlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Premiere 7 HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzQ6MDYgQU0maGFzaF92YWx1ZT1DeVlVQ1BpV05IY045RWl4ajVuVllnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Paramount Channel HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MzI6MjcgQU0maGFzaF92YWx1ZT1JSjVBUUQzSDZLTHcrVHlNMU0ydEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Studio Universal HD
