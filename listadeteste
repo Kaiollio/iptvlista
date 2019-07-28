@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Cinemax HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDk6MjMgQU0maGFzaF92YWx1ZT1xRGw3eldKdkczMVZidVhQKzV3TFNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Disney Channel HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6NDc6MjMgQU0maGFzaF92YWx1ZT1LUE9LUTdYRGFoR1RiRzloVnpJMDVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Comedy Central HD
