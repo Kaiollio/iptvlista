@@ -3,3 +3,5 @@
 https://youtu.be/9z_8k1Ir-6U
 #EXTINF: -1,TelecineAction
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MTM6MDcgQU0maGFzaF92YWx1ZT1ZTzM4Y1Ryd3ZPMHRZYjQyRENQQzJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF: -1, TelecinePipoca
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MjM6MTEgQU0maGFzaF92YWx1ZT1aSXpKcFlBUlFGOEZLc1FxNVZqaHpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
