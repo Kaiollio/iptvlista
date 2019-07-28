@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,HBO Plus HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTk6NTkgQU0maGFzaF92YWx1ZT1nVFd4ZmN4MzQ5NVJ0WTlrTzFZcGF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Telecine Premium HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTg6MzIgQU0maGFzaF92YWx1ZT1LNW40NWJwdEZLWFpzOWpGUWpzNUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Max Prime HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTc6NDQgQU0maGFzaF92YWx1ZT00UXIyM3NjelRPd3BDSkxma1lCSldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Telecine Fun HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTc6MTYgQU0maGFzaF92YWx1ZT1FenBaaGNoallDOXZicTZod2FyTTdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Telecine Touch HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTY6MTcgQU0maGFzaF92YWx1ZT0ycTVKRWRZdWtmRS85eG5TS3ExeldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Max HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTU6MjMgQU0maGFzaF92YWx1ZT1KdlE2OHZvQTk3anZ5eFhMT3Z5K01RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Telecine Cult HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Telecine Action HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6MTAgQU0maGFzaF92YWx1ZT1PTGJyUjdVODFGVS9tOGsxL2s0YnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,Fish TV HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTE6NTYgQU0maGFzaF92YWx1ZT1XS2pIY3lFUVJsVnU0akpmanZiRUtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Cartoon Network HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDY6MTIgQU0maGFzaF92YWx1ZT1heGlwZk1EdHNURXkzMUtHVldodkd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Fox Sports HD
