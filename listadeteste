@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Discovery Turbo HD
+https://live.multicanais.com/live/discoveryturbohd/video.m3u8?md5=5Qf1n41zvFKJ6rHGv2oWwA&expires=1564364403
 #EXTINF:-1,Max UP HD
 https://live.multicanais.com/live/maxuphd/video.m3u8?md5=XIMaUJfKYH8QSYWvw8iwlA&expires=1564363282
 #EXTINF:-1,HBO Family HD
@@ -122,7 +124,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:-1,Telecine Cult HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Action HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjI1OjQ4IFBNJmhhc2hfdmFsdWU9TUxmOEFGUmxsSFFtME9JMDNnMy9LZz09JnZhbGlkbWludXRlcz02MCZpZD01
+https://live.multicanais.com/live/telecineactionhd/video.m3u8?md5=EX0N0cZ5-cXLiqqSGYTkwg&expires=1564364351
 #EXTINF:-1,MTV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDM6NTUgQU0maGFzaF92YWx1ZT1JUGtIc011aHBTQzhsN253ZmFCRUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Multishow HD
