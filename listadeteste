@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1,E! HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjE1OjAwIEFNJmhhc2hfdmFsdWU9Z2JRb1JVYUphTVM4akpDRHNjaWpldz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,Discovery World HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjEzOjE0IEFNJmhhc2hfdmFsdWU9T1kzdThWd0pCVGRKbmxWdnIyQWJ2dz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Discovery Turbo HD
-https://live.multicanais.com/live/discoveryturbohd/video.m3u8?md5=5Qf1n41zvFKJ6rHGv2oWwA&expires=1564364403
+https://d10uk7xyz104pv.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjEyOjIyIEFNJmhhc2hfdmFsdWU9VG44UFZadzBaTmtLeEF6bTUySlpIUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Max UP HD
-https://live.multicanais.com/live/maxuphd/video.m3u8?md5=XIMaUJfKYH8QSYWvw8iwlA&expires=1564363282
+https://d10uk7xyz104pv.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjE0OjA1IEFNJmhhc2hfdmFsdWU9T1JIaVhON1h3ZlFxbWdBYWZFc1JRZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,HBO Family HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDExOjM4OjUxIFBNJmhhc2hfdmFsdWU9OVgvQVpYandiSFpGZFJqY0lHcXFjdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,HBO Signature HD
@@ -112,7 +116,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 #EXTINF:-1,HBO Plus HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTk6NTkgQU0maGFzaF92YWx1ZT1nVFd4ZmN4MzQ5NVJ0WTlrTzFZcGF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Premium HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTg6MzIgQU0maGFzaF92YWx1ZT1LNW40NWJwdEZLWFpzOWpGUWpzNUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjE1OjU1IEFNJmhhc2hfdmFsdWU9V3BVY1QySG8zQjlINzRLdEJuaC9QQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Max Prime HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTc6NDQgQU0maGFzaF92YWx1ZT00UXIyM3NjelRPd3BDSkxma1lCSldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Telecine Fun HD
@@ -122,9 +126,9 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2Vydm
 #EXTINF:-1,Max HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDEwOjI5OjExIFBNJmhhc2hfdmFsdWU9QVF4YTQxOFB3SU1nWjA5S1FBWGxtUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Telecine Cult HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTQ6NTggQU0maGFzaF92YWx1ZT1zdmx4RUQ4OXQwc0FrTFJ6Q05Cdlh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjE1OjMzIEFNJmhhc2hfdmFsdWU9ZUE2dnJyNEUySDdtT28wb1NCcWhLQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,Telecine Action HD
-https://live.multicanais.com/live/telecineactionhd/video.m3u8?md5=EX0N0cZ5-cXLiqqSGYTkwg&expires=1564364351
+https://d10uk7xyz104pv.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEyOjE2OjM1IEFNJmhhc2hfdmFsdWU9aTU2em95ZlhVUG8wME5YbDdCZjBuQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1,MTV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MDM6NTUgQU0maGFzaF92YWx1ZT1JUGtIc011aHBTQzhsN253ZmFCRUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,Multishow HD
