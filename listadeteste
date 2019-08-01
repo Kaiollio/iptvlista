@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Fish TV
 https://d1h1b343gf75ml.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE5IDEwOjIwOjA4IFBNJmhhc2hfdmFsdWU9ZFhveFlEY2NBQUVVRUlwTkZEck5JQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TNT HD
+https://live.multicanais.com/live/tnthd/video.m3u8?md5=lh9ih7o0j2JwnJlD0yNJnQ&expires=1564708822
