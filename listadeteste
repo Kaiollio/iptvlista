@@ -15,14 +15,11 @@ https://roda1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="Filmes e Series",Megapix SD
 https://roda1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoxOTowMyBBTSZoYXNoX3ZhbHVlPVU4cDRZY3k5bU5VSXY1ZlBaZ1JiTUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentarios",History Channel SD
-https://roda1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoyNzoyNSBBTSZoYXNoX3ZhbHVlPWVzTk5MaVRRZWQyTGE5MjYwWTBhSXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="Filmes e Series",Space SD
 https://roda1.azureedge.net/hls1/space.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoyOToyMCBBTSZoYXNoX3ZhbHVlPW5yZXMxa3R3SStOTzJIcGM0eGRxc3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="Filmes e Series",TNT Series SD
 https://roda1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoyODo0MiBBTSZoYXNoX3ZhbHVlPU9iaFlHWFJuQ3FQd1pkb0c3eDRmRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="Desenhos",Discovery Kids SD
-https://roda1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjozMzowNCBBTSZoYXNoX3ZhbHVlPTdwYzNnUmNYWndYZlNEOUZ2WWFLN0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="Documentarios",National Geographic SD
+https://roda1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjozNDo1NCBBTSZoYXNoX3ZhbHVlPWttYndwRjVPY3FHVTF0OE0wMkZUYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
