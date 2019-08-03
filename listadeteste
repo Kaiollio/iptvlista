@@ -11,3 +11,9 @@ https://roda1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Filmes e Series",Telecine Pipoca SD
 https://roda1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowNzozMCBBTSZoYXNoX3ZhbHVlPTNFTEdqOFFQL0xEWTJVbjdoUDVkcWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png" group-title="Filmes e Series",TNT SD
+https://roda1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoxMzoyMSBBTSZoYXNoX3ZhbHVlPW5HbzY5RThqaCszZEFuYnB2d1ZOenc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Filmes e Series",Telecine Action SD
+https://roda1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoxNToxMCBBTSZoYXNoX3ZhbHVlPUt3RnhrQzhhL3F0aGNvM2pqUWhHS1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
