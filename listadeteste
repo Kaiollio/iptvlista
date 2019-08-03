@@ -23,3 +23,6 @@ https://roda1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8z
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="Documentarios",National Geographic SD
 https://roda1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjozNDo1NCBBTSZoYXNoX3ZhbHVlPWttYndwRjVPY3FHVTF0OE0wMkZUYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png" group-title="Documentarios",Discovery Channel SD
+https://roda1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgNToxNToyMCBQTSZoYXNoX3ZhbHVlPWFuQTJULzdnL0l4RGZEMjhpYVBCT2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
