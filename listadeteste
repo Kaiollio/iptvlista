@@ -5,3 +5,9 @@ https://roda1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLz
 
 #EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/181-1815028_fox-channel-germany-logo-fox-tv.png" group-title="Filmes e Series",Fox SD
 https://roda1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowMjowMSBBTSZoYXNoX3ZhbHVlPTQxMGtVZlp6YWxLdG9pWmlaT1MrZ2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Filmes e Series",Animal Planet SD
+https://roda1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowNjoxNiBBTSZoYXNoX3ZhbHVlPWxSb2pOcGZJbmhsaURKQVZHSzY4cnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Filmes e Series",Telecine Pipoca SD
+https://roda1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowNzozMCBBTSZoYXNoX3ZhbHVlPTNFTEdqOFFQL0xEWTJVbjdoUDVkcWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
