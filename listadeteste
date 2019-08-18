@@ -1,24 +1,459 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Desenhos",Cartoon Netword SD
-https://roda1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMTo1OToyMSBBTSZoYXNoX3ZhbHVlPStmU2NoNGtnMmJyT3JJK2I5RnNFeGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/181-1815028_fox-channel-germany-logo-fox-tv.png" group-title="Filmes e Series",Fox SD
-https://roda1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowMjowMSBBTSZoYXNoX3ZhbHVlPTQxMGtVZlp6YWxLdG9pWmlaT1MrZ2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet SD
-https://roda1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowNjoxNiBBTSZoYXNoX3ZhbHVlPWxSb2pOcGZJbmhsaURKQVZHSzY4cnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Filmes e Series",Telecine Pipoca SD
-https://roda1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjowNzozMCBBTSZoYXNoX3ZhbHVlPTNFTEdqOFFQL0xEWTJVbjdoUDVkcWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="Filmes e Series",Megapix SD
-https://roda1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoxOTowMyBBTSZoYXNoX3ZhbHVlPVU4cDRZY3k5bU5VSXY1ZlBaZ1JiTUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="Filmes e Series",TNT Series SD
-https://roda1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoyODo0MiBBTSZoYXNoX3ZhbHVlPU9iaFlHWFJuQ3FQd1pkb0c3eDRmRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="Documentarios",National Geographic SD
-https://roda1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjozNDo1NCBBTSZoYXNoX3ZhbHVlPWttYndwRjVPY3FHVTF0OE0wMkZUYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png" group-title="Documentarios",Discovery Channel SD
-https://roda1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMTI6NDY6MDcgQU0maGFzaF92YWx1ZT13cTFFeTVmeFpEUmpnYTEvUkZ2L1d3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-civilization-brazil_m.png" group-title="Documentarios",Discovery Civilization SD
-https://roda1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMTI6NDc6NTQgQU0maGFzaF92YWx1ZT1ic2NNd0NmREhseTNKQTdlTnhWY1FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Series",Telecine Premium SD
-https://roda1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMTI6NDk6MTggQU0maGFzaF92YWx1ZT1MMFFiQ3FQWWdBUzdvR2oxR0tSczR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Filmes e Series",Telecine Action SD
-https://roda1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMTI6NTI6MzMgQU0maGFzaF92YWx1ZT0remY2QmduSm15ekhNZFFMbW9wVFFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAIS",SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" tvg-id="tv serra dourada" group-title="CANAIS",SBT GOCanal FutucAndroiD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO-Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/1.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO SD-Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/22356
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="https://2.bp.blogspot.com/-Fj37MKkXH5c/W55N2q9YhLI/AAAAAAAACfo/tMB8LPvBtaEFBy1b3g6Q_aTsTHWQ8yshgCLcBGAs/s1600/recordsp.png" group-title="CANAIS",RECORD TV SP SD- Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1710
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS", REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="via morena"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",VIA MORENA- Canal FutucAndroiD
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv diário"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW" tvg-id="0" group-title="CANAIS",DISNEY- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/124.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Srg7wCz.jpg" tvg-id="0" group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37112.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN- Canal FutucAndroiD
+http://painel.ebanonet.com.br:25461/1303/1303/6140
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv" tvg-id="0" group-title="CANAIS",ANIMAL PLANET- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37128.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS",HBO2- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/230.ts
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1038
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="CANAIS",FOX MOVIES- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" tvg-id="0" group-title="CANAIS",FOX PREMIUM 1- Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/928
+
+
+#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/20816
+
+#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/232.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70shyfJmW0ABnluYhuJnl1vY83sUfGac--rA-9et32zJBMJVR" tvg-id="0" group-title="CANAIS",TBS FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/121.ts
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/183.ts
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1005
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVBsyo5HzfZTLi3Ph0bNKBoBX4mNW3olMNqecid3MLlFIVHMmf" tvg-id="0" group-title="CANAIS",HBO FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/132.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS",TV NA ILHA- Canal FutucAndroiD
+http://stmv4.srvstm.com/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1030442366
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" tvg-id="0" group-title="CANAIS",TELE CINE ACTION FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/133.ts
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="CANAIS",TELECINE ACTION SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/935
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/137.ts
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/2415
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FUN FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/134.ts
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FAN SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/931
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156144/telecine-action-hd.png?v=636446361920170000" tvg-id="0" group-title="CANAIS",TELE CINE ACTION- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37040.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37039.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/933
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="CANAIS",TELECINE TOUCH SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/926
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/929
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37038.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/45.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/896
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/925
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37037.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1qImkGTS4tIrklxASF74RGYUl6OBaoAjrKV5R_BWCZlQcf4OH" tvg-id="0" group-title="CANAIS",UNIVERSAL CHANNEL - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/940
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/03/novo-programa-studio-universal.jpg" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-e4Hwf6_-Zwc/VaBmzm0DgUI/AAAAAAAAkyU/A4fPY75Fj40/s1600/Fox_life_it.png" tvg-id="0" group-title="CANAIS",FOX LIFE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37100.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg" tvg-id="0" group-title="CANAIS",FOX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37101.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg " tvg-id="0" group-title="CANAIS",FOX SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1329
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NUqhIGIog6Q/V7pfdwICc0I/AAAAAAAAvlg/Kh_2NtCAbjEN6wBeUs9_pj3-N2tCtnWowCLcB/s1600/fx_tr.png" tvg-id="0" group-title="CANAIS",FX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37097.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37046.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE SD- Canal FutucAndroiD
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkIsS3-7Wmy4Kp1qDpogzH6u8bcCIanU3JurrW4DzUsGB0U1Ez" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37035.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFzV5J_zz_hsBWLvy3jQeZDeDGdKo69tJovz6biAUCgcsZw3Jv" tvg-id="0" group-title="CANAIS",TNT SÉRIES- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37034.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YmxDFQHZqss/WLhZqBih87I/AAAAAAAAOEg/bJWEJTjhTAAYnTpAq_tWP6Cd_Q23Vm12wCLcB/s1600/maxresdefault.jpg" tvg-id="0" group-title="CANAIS",GNT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37088.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN2I5v-LLrb32Bq74oyZcPmNixd5NrwiMEcpXLHEOPYdBphPhP" tvg-id="0" group-title="CANAIS",HBO- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37087.ts
+
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/Nzc7MDA_/16169c06f52570d620fc3dc6481e698c.png" tvg-id="0" group-title="CANAIS",HBO 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37086.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37083.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1014
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO_Lwy8FxYIib6Mz0aBgTa8vin9v5rTHsgf32RyaDP3CEbYKR2" tvg-id="0" group-title="CANAIS",HBO FAMILY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37085.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37082.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/2488
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="https://3.bp.blogspot.com/-OFc1gLDWPyc/WhXBylyd_LI/AAAAAAAABUg/8syI7aa2Ox4BKq5EP4sUFZfe0uCbPg_AQCLcBGAs/s1600/maxprime.png" group-title="CANAIS",MAX PRIME SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1006
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839816129778487296/NQRyFRJB_400x400.jpg" tvg-id="0" group-title="CANAIS",HISTORY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37081.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.cmjornal.pt/images/2018-07/img_770x433$2018_07_03_18_18_36_754250.jpg" tvg-id="0" group-title="CANAIS",DISNEY JR- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37110.m3u8
+
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/disney-channel-logo-2015-600x300.jpg" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37111.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk" tvg-id="0" group-title="CANAIS",CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQPoE9IYSZTfG7iaO233ciV6zHzB6o50ufbTwXHhc5YhRCvyokw" tvg-id="0" group-title="CANAIS",NICK JR- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37065.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM6B8R4WaQ3vprwns5YoQv6JTOmO2lydzZQccChQK8pPXxBy4" tvg-id="0" group-title="CANAIS",NICK- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37064.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRESoEe2lrbZ2PB2iaoy7X9iy-gN8_O1YQekHfGG-MiQT0dF2O5" tvg-id="0" group-title="CANAIS",TOONCAST- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37033.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" tvg-id="0" group-title="CANAIS",COMED CENTRAL
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37118.m3u8
+
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" tvg-id="0" group-title="CANAIS",VIVA - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/23981
+
+#EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" tvg-id="0" group-title="CANAIS",REDE NEW- Canal FutucAndroiD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX31HFuXGoPHLZOGqQJIW7uOTaoaBYtMA8C6TgxsGoTnrxTfqCg" tvg-id="0" group-title="CANAIS",OFF- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37063.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Canalsonyhd.png/revision/latest?cb=20160412192803" tvg-id="0" group-title="CANAIS",SONY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36987.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxubfc61mrtFdMdwhaL8wzh7-mpKuu40OcrSAiuXvXlXUKfA7" tvg-id="0" group-title="CANAIS",SONY SD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37007.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-Vf65YehC1Jjmy_CHT7878ZqFjfmkw5MSoabtbPK3YAw9qoK" tvg-id="0" group-title="CANAIS",PARAMOUNT CHANNEL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37062.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618497065283416064/B50suy-t_400x400.png" tvg-id="0" group-title="CANAIS",CINEMAX- Canal FutucAndroiD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37120.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNDkEpNas5s3PtamWEXjXg3lQ-eXt4hwhH-pAsKTRrMe2mzXV" tvg-id="0" group-title="CANAIS",MAX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37076.m3u8
+
+#EXTINF:-1 tvg-logo="http://t.likeiptv.com/maxprime1.jpg" tvg-id="0" group-title="CANAIS",MAX PRIME- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37075.m3u8
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/video-thumbnails/maxup.jpeg" tvg-id="0" group-title="CANAIS",MAX UP- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37073.m3u8
+
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" tvg-id="0" group-title="CANAIS",MEGAPIX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37072.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv50BqIB-okyMch2yqsE1ivk1gOjpyB2J-cXf6MBo0KgsLyQcS" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReGtmCoB6_Tu_p-24Gy-tVAMopKmxHKbwrAD9s2EAMCFwzc3zG" tvg-id="0" group-title="CANAIS",SYFY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37042.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 1- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37057.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37060.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 3- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37059.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 4- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37058.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37017.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37016.ts
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" tvg-id="0" group-title="CANAIS",ESPN 2- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/123.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN BRASIL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37104.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN+- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/36976.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/141.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/139.ts
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" tvg-id="0" group-title="CANAIS",SPORTV- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/143.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA" tvg-id="0" group-title="CANAIS",SPORTV 2- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/138.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmDKLFNlkxuVvxFht_1Jo-_03e4j35-5f7H4zIRlI6rkug4yA" tvg-id="0" group-title="CANAIS",SPORTV 3- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/136.ts
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK-uNJfIUQQ2irOBcomGbXHFbEZHtrGjjg_CfNCVR7t-U7GAAk" tvg-id="0" group-title="CANAIS",REAL MADRID TV- Canal FutucAndroiD
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d0a56bd4618d5d85e49f87519751b6.jpg" tvg-id="0" group-title="CANAIS",SEVILLA TV- Canal FutucAndroiD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBkPRxBNPdNGtFf53p2aP-luRBYX1Bqnw3aviAULH1GEHev6m5" tvg-id="0" group-title="CANAIS",ALL SPORTS- Canal FutucAndroiD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE HD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36986.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/22439
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/04/espn.jpg" tvg-id="0" group-title="CANAIS",ESPN BRASIL - Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37104.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/espnmaisb.png" tvg-id="0" group-title="CANAIS",ESPN PLUS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36976.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuHh-mQXPlrJFdhDXTr_hypLHNbRko2Vu9r4gL8dXVe0GI-GtJ" tvg-id="0" group-title="CANAIS",FOX SPORTS SD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37099.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/bm3a1vUwvq80R1imVAW35qs2mss=/0x5:1100x738/1200x800/filters:focal(0x5:1100x738)/cdn.vox-cdn.com/uploads/chorus_image/image/5378209/fox_20sports_202.0.jpg" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37098.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNYMFmVWvKegS57UBwLD1M1T0flACJrmUyslZ0tTxIzhd7_1dN" tvg-id="0" group-title="CANAIS",REDE BRASIL- Canal FutucAndroiD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxhIxYpHaW_Gy-STCJvN3N-GrIVY7WqjLQIvBXpPfyhuad5dgB" tvg-id="0" group-title="CANAIS",TV CULTURA MG- Canal FutucAndroiD
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2J7ya2oQXq85w4fMdiBhGuxxV4M8Y9HxukI8hzKzzCKxNx0O" tvg-id="0" group-title="CANAIS",FUTEBOL- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/140.ts
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" tvg-id="0" group-title="CANAIS",REDE FAMÍLIA- Canal FutucAndroiD
+https://5a7bcfb834235.streamlock.net/zw901/smil:zw901.smil/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" tvg-id="0" group-title="CANAIS",HOP CHANNEL- Canal FutucAndroiD
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" tvg-id="0" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RKA4j3e8r3NQB4HBNN5VhC8ZUQ7u" tvg-id="0" group-title="CANAIS",RECORD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/36051.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK" tvg-id="0" group-title="CANAIS",PRIME- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37053.ts
+
+#EXTINF:-1 tvg-id="tv Record" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="CANAIS",RECORD TV GUARÁ- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-id="0"tvg-logo="https://1.bp.blogspot.com/-pvKHwq5Akao/W1r_17iDezI/AAAAAAAAAD4/XScCm8AL0n0bGDi6IqsU32LYz7Ys-iD0ACLcBGAs/s1600/logotipo-tv-aparecida.png" group-title="CANAIS",TV APARECIDA- Canal FutucAndroiD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="band" tvg-name="band" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w587755610.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS ",BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND SD- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="CANAIS",GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" tvg-id="0" group-title="CANAIS",AMAZON SAT- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" tvg-id="0" group-title="CANAIS",TVE BA HD- Canal FutucAndroiD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Ua7iiL?" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/2.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS ",HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" tvg-id="0" group-title="CANAIS",RAI MOVIES- Canal FutucAndroiD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" tvg-id="0" group-title="CANAIS",CLASSIQUE TV- Canal FutucAndroiD
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",CARIOCA NET- Canal FutucAndroiD
+http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w114717025.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" tvg-id="0" group-title="CANAIS",DW NEWS- Canal FutucAndroiD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="dw News" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS",HISTORY LAB- Canal FutucAndroiD
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="CANAIS",TELE BARN
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" tvg-id="0" group-title="CANAIS",LOCOMOTION- Canal FutucAndroiD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cvVK7m.png?1" tvg-id="0" group-title="CANAIS",COMBATE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37119.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WZ5X5IlbvJk/W46Xoxnru6I/AAAAAAABJWU/X3det7UxEjEjFk8tCNXZ9iTzwFSQo8wpwCJoC/w317-h318-n/gplus919542092.png" tvg-id="0" group-title="CANAIS",DESENHOS 24 HORAS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/39775.ts
+
+#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" tvg-id="0" group-title="CANAIS",ABN KIDS- Canal FutucAndroiD
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis" tvg-id="0" group-title="CANAIS",GOSPEL CARTOON- Canal FutucAndroiD
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" tvg-id="0" group-title="CANAIS",TV TEEN NET- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" tvg-id="0" group-title="CANAIS",HIT MUSIC- Canal FutucAndroiD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" tvg-id="0" group-title="CANAIS",RETRÔ TV- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCp72c6.png" tvg-id="0" group-title="CANAIS",CENTRAL TV CURITIBA- Canal FutucAndroiD
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" tvg-id="0" group-title="CANAIS",TV CIDADE OESTE RN- Canal FutucAndroiD
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" tvg-id="0" group-title="CANAIS",TV PANTANAL MS- Canal FutucAndroiD
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" tvg-id="0" group-title="CANAIS",RETRÔ MUSIC- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" tvg-id="0" group-title="CANAIS",ARG:CANAL 26 HD- Canal FutucAndroiD
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 HD- Canal FutucAndroiD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 SD- Canal FutucAndroiD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
