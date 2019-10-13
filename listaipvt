@@ -1,0 +1,162 @@
+    #EXTM3U
+    #EXTINF:0,JDTUTORS IPTV A MELHOR LISTA ESTA AQUI ZAP:32999026073
+    #EXTVLCOPT:network-caching=1000
+    https://www.youtube.com/watch?v=R6DtwisVW5E&t=24s
+
+    #EXTINF:0, ESPN EXTRA
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/583.ts
+
+
+#EXTINF:0,BAND SPORT
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/629.ts
+
+
+#EXTINF:0,COMBATE
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/616.ts
+
+
+#EXTINF:0,ESPN
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/584.ts
+
+
+#EXTINF:0,FOX SPORT
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/569.ts
+
+
+
+ #EXTINF:0,SPORT TV
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/458.ts
+
+
+#EXTINF:0,PREMIERE CLUBS
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/486.ts
+
+
+#EXTINF:0,GLOBO
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/559.ts
+
+
+#EXTINF:0,SBT
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/469.ts
+
+
+#EXTINF:0,BAND
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/631.ts
+
+
+#EXTINF:0,RECORD
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/479.ts
+
+
+#EXTINF:0,REDE TV
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/473.ts
+
+#EXTINF:0,FOX PREMIUM
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/574.ts
+
+
+
+#EXTINF:0,FOX
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/577.ts
+
+
+#EXTINF:0,TNT
+    #EXTVLCOPT:network-caching=1000
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/433.ts
+
+
+#EXTINF:0,TELECINE PIPOCA
+    #EXTVLCOPT:network-caching=1000   
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/443.ts
+
+
+#EXTINF:0,SPACE
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/464.ts
+
+
+#EXTINF:0,MEGA PIX
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/526.ts
+
+
+#EXTINF:0,HBO
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/548.ts
+
+
+#EXTINF:0,FX
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/566.ts
+
+
+#EXTINF:0,ZOOMOO
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/394.ts
+
+#EXTINF:0,TOONCAST
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/430.ts
+
+
+#EXTINF:0,NICKODEON
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/510.ts
+
+#EXTINF:0,NICK JR
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/509.ts
+
+#EXTINF:0,DISNEY XD
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/595.ts
+
+#EXTINF:0,DISNEY JR
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/597.ts
+
+#EXTINF:0,DISNEY CHANNEL
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/598.ts
+
+#EXTINF:0,BOOMERANG
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/626.ts
+
+#EXTINF:0,ANIMAL PLANET
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/640.ts
+
+#EXTINF:0,DISCOVERY CHANNEL
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/603.ts
+
+#EXTINF:0,HISTORY
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/540.ts
+
+#EXTINF:0,NATGEO
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/517.ts
+
+#EXTINF:0,NATGEOGRAFIC
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/514.ts
+
+#EXTINF:0,GLOBO NEWS
+    #EXTVLCOPT:network-caching=1000 
+http://paineltvfull.ml:8890/live/tvpro01/tdhfhf83663hfhfhd7d6/558.ts
